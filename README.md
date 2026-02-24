@@ -6,3 +6,7 @@ i'm a programmer. doing as i'm sure many have done before, abandoning my previou
  - rust
  - html, css, js
  - godot
+
+## contact
+ - [bluesky](https://bsky.app/profile/de-lux-e.bsky.social)
+ - [tumblr](https://de-lux-e.tumblr.com/)
